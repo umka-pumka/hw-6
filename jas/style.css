@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://avatars.mds.yandex.net/i?id=8c8a8af27ed4cc4f18a112e946f368fff465f7d0-9555577-images-thumbs&n=13");
+
+    background-image: cover;
+}
+.hapi{
+    display: block;
+    justify-content: center;
+    margin-top: 300px;
+    margin-left: 680px;
+
+}
+
+.clap{
+    color: white;
+    margin-left: 50px;
+}
+
+
+.vov{
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.viv{
+    height: 30px;
+    width: 60px;
+    background-color: rgb(97, 97, 225);
+    border-radius: 5px;
+}
+.viv:hover{
+    background-color: rgb(49, 49, 219);
+}
